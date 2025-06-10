@@ -1,2 +1,2 @@
 # Python
-This repository contains projects using Python.
+Python Portfolio
